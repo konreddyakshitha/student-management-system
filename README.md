@@ -44,3 +44,6 @@ The database contains the following fields:
 
 ```bash
 python main.py
+## Screenshot
+
+![Student Management System](screenshot.png)
